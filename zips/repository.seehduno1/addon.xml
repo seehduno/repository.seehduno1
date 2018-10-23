@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.seehduno1" name="HDUno" version="0.0.1" provider-name="VikUnoHD">
+	<extension point="xbmc.addon.repository" name="HDUno">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/seehduno/repository.seehduno1/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/seehduno/repository.seehduno1/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/seehduno/repository.seehduno1/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Test Repo</summary>
+		<description lang="en">Test Repo</description>
+		<genre>adult,movies,trailers,tvshows,usa</genre>
+	</extension>
+</addon>
